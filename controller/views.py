@@ -12,6 +12,7 @@ def home(request):
 
 
 def about(request):
+<<<<<<< HEAD
      context={
         'posts':Post.objects.all()
     }
@@ -58,5 +59,9 @@ class PostDeleteView(LoginRequiredMixin, UserPassesTestMixin,DeleteView):
 
     
     
+=======
+    return render(request, 'controller/about.html', {'title': 'About'})
 
- 
+
+>>>>>>> a7d36c52cbf72f2b9d0bfb9ec0b0f8e1d3c33e8f
+

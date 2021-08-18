@@ -19,9 +19,15 @@ from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
 from users import views as user_views
+<<<<<<< HEAD
 admin.site.site_header = 'Traffic Controller Admin'
 admin.site.index_title = 'Admin Panel Area'
 admin.site.site_title = 'Traffic Controller Admin'
+=======
+admin.site.site_header = 'Traffic Controller Admin'  # default: "Django Administration"
+admin.site.index_title = 'Admin Panel area'          # default: "Site administration"
+admin.site.site_title = 'Traffic Controller Admin'    # default: "Django site admin"
+>>>>>>> a7d36c52cbf72f2b9d0bfb9ec0b0f8e1d3c33e8f
 
 
 urlpatterns = [
