@@ -1631,7 +1631,11 @@ Copyright (c) 2015 Daniel Eden
     border-color: #2b3553;
     background-color: transparent;
     border-radius: 0.4285rem;
+<<<<<<< HEAD
     color: rgba(22, 4, 4, 0.8);
+=======
+    color: rgba(255, 255, 255, 0.8);
+>>>>>>> d27d3aa8b305ca95ebb33ef72c118ffb35c6c1ec
     line-height: normal;
     font-size: 0.8571em;
     -webkit-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
@@ -1649,8 +1653,12 @@ Copyright (c) 2015 Daniel Eden
     -webkit-box-shadow: none;
     box-shadow: none;
     outline: 0 !important;
+<<<<<<< HEAD
     /* color: rgba(255, 255, 255, 0.8); */
     color: rgba(12, 3, 3, 0.8);
+=======
+    color: rgba(255, 255, 255, 0.8);
+>>>>>>> d27d3aa8b305ca95ebb33ef72c118ffb35c6c1ec
   }
   
   .form-control:focus+.input-group-append .input-group-text,
@@ -2113,7 +2121,10 @@ Copyright (c) 2015 Daniel Eden
   .form-text {
     font-size: 0.8571em;
     color: rgba(255, 255, 255, 0.8);
+<<<<<<< HEAD
     
+=======
+>>>>>>> d27d3aa8b305ca95ebb33ef72c118ffb35c6c1ec
   }
   
   .form-control-lg {
@@ -2440,7 +2451,11 @@ Copyright (c) 2015 Daniel Eden
   
   ul li,
   ol li {
+<<<<<<< HEAD
     color: #130606;
+=======
+    color: #FFFFFF;
+>>>>>>> d27d3aa8b305ca95ebb33ef72c118ffb35c6c1ec
   }
   
   pre {
@@ -2448,7 +2463,11 @@ Copyright (c) 2015 Daniel Eden
   }
   
   body {
+<<<<<<< HEAD
     background: #FFFFFF;
+=======
+    background: #1e1e2d;
+>>>>>>> d27d3aa8b305ca95ebb33ef72c118ffb35c6c1ec
     color: #222a42;
     font-size: 14px;
     font-family: "Poppins";
