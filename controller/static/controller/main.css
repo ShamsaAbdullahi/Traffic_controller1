@@ -1631,7 +1631,7 @@ Copyright (c) 2015 Daniel Eden
     border-color: #2b3553;
     background-color: transparent;
     border-radius: 0.4285rem;
-    color: rgba(255, 255, 255, 0.8);
+    color:black;
     line-height: normal;
     font-size: 0.8571em;
     -webkit-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
@@ -1649,7 +1649,7 @@ Copyright (c) 2015 Daniel Eden
     -webkit-box-shadow: none;
     box-shadow: none;
     outline: 0 !important;
-    color: rgba(255, 255, 255, 0.8);
+    color: black;
   }
   
   .form-control:focus+.input-group-append .input-group-text,
@@ -2238,7 +2238,7 @@ Copyright (c) 2015 Daniel Eden
   h5,
   h6 {
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.8);
+    color:black;
   }
   
   a {
@@ -2438,7 +2438,7 @@ Copyright (c) 2015 Daniel Eden
   
   ul li,
   ol li {
-    color: #FFFFFF;
+    color: blueviolet;
   }
   
   pre {
