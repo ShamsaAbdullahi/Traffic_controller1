@@ -6,8 +6,9 @@ from django.shortcuts import render
 def home(request):
     return render(request, 'controller/home.html')
 
-def about(request):
-    return render(request, 'controller/about.html',{'title':'About'})
-    
 
- 
+def about(request):
+    return render(request, 'controller/about.html', {'title': 'About'})
+
+
+
